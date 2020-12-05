@@ -74,6 +74,12 @@ section{
     position: relative;
 }
 
+/* these 2 colors will override the ones in. hero*/
+.hero-seconday{
+    background-color: black;
+    color: red;
+}
+
 /*hero style end*/
 
 /* hero-form begins*/
