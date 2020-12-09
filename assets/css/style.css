@@ -276,6 +276,22 @@ section{
 }
 /*Trainers end*/
 
+/* service grid section begins */
+
+.service-grid-container{
+    display: grid;
+}
+
+.service-grid-item{
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* service grid section end */
+
 /*Reach out section begins*/
 
 .contact{
