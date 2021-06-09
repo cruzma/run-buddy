@@ -6,14 +6,19 @@
 - [Description](#description)
 - [User&nbsp;Story](#User&nbsp;Story)
 - [Acceptance&nbsp;Criteria](#Acceptance&nbsp;Criteria)
-- 
+- [Demo](#Demo)
+
 ## Description
 
+The run buddy is a company that matches runners with personal trainers, it was built and designed with HTML, CSS along with advanced CSS techniques such as flexbox and CSS grid.
+
 ## User Story
+
 ```
-AS A marketing agency
+AS A Fitness gym
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+
 ```
 ## Acceptance Criteria
 
@@ -32,6 +37,10 @@ THEN I find a concise, descriptive title
 
 ```
 
+### Demo
+
+![portfolio example](./assets/images/RunBuddy.gif)
+
 ## Contribution
 
-Made with ❤️ by Mateo Cruz
+Mateo Cruz
