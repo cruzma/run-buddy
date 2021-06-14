@@ -1,7 +1,7 @@
 # run-buddy
 
 ### Github: https://github.com/cruzma/run-buddy/
-### Website: https://lernantino.github.io/run-buddy/
+### Website: https://cruzma.github.io/run-buddy/
 
 ## Table of Contents
 - [Description](#description)
